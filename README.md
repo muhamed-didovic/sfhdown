@@ -30,7 +30,7 @@ Options
 Examples
     $ sfhdown
     $ sfhdown -a
-    $ sfhdown [url] [-e user@gmail.com] [-p password] [-d dirname] [-c number] [-f path-to-file]
+    $ sfhdown [url] [-d dirname] [-c number] [-f path-to-file]
 ```
 
 ## License
