@@ -1,6 +1,6 @@
 {
   "name": "sfhdown",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Downloader and scraper for serverforhackers.com",
   "main": "index.js",
   "directories": {
