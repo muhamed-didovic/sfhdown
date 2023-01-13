@@ -18,15 +18,6 @@
     }
   },
   {
-    "title": "SSH Usage, Tips, and Tricks",
-    "value": "https://serversforhackers.com/s/ssh-usage-tips-and-tricks",
-    "url": "https://serversforhackers.com/s/ssh-usage-tips-and-tricks",
-    "topic": {
-      "title": "Beginners",
-      "value": "https://serversforhackers.com/t/beginners"
-    }
-  },
-  {
     "title": "Package Managers",
     "value": "https://serversforhackers.com/s/package-managers",
     "url": "https://serversforhackers.com/s/package-managers",
@@ -39,6 +30,15 @@
     "title": "Security",
     "value": "https://serversforhackers.com/s/security",
     "url": "https://serversforhackers.com/s/security",
+    "topic": {
+      "title": "Beginners",
+      "value": "https://serversforhackers.com/t/beginners"
+    }
+  },
+  {
+    "title": "SSH Usage, Tips, and Tricks",
+    "value": "https://serversforhackers.com/s/ssh-usage-tips-and-tricks",
+    "url": "https://serversforhackers.com/s/ssh-usage-tips-and-tricks",
     "topic": {
       "title": "Beginners",
       "value": "https://serversforhackers.com/t/beginners"
@@ -585,18 +585,18 @@
     }
   },
   {
-    "title": "Process Monitoring",
-    "value": "https://serversforhackers.com/s/process-monitoring",
-    "url": "https://serversforhackers.com/s/process-monitoring",
+    "title": "HTTP2",
+    "value": "https://serversforhackers.com/s/http2",
+    "url": "https://serversforhackers.com/s/http2",
     "topic": {
       "title": "Configuration Management",
       "value": "https://serversforhackers.com/t/configuration-management"
     }
   },
   {
-    "title": "HTTP2",
-    "value": "https://serversforhackers.com/s/http2",
-    "url": "https://serversforhackers.com/s/http2",
+    "title": "Process Monitoring",
+    "value": "https://serversforhackers.com/s/process-monitoring",
+    "url": "https://serversforhackers.com/s/process-monitoring",
     "topic": {
       "title": "Configuration Management",
       "value": "https://serversforhackers.com/t/configuration-management"
